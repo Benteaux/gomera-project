@@ -7,7 +7,7 @@ represented being based on the context.
 
 This project establishes the first ever attempt at creating an E2E deep learning model for speech-to-text on a whistled language.
 
-The dataset used is from https://www.openslr.org/137/, which was initially created for an HMM-GMM model attempting to perform speech-to-text for the same language.
+The dataset used is from https://www.openslr.org/137/, which was initially created for an HMM-GMM model attempting to perform speech-to-text for the same language. Note that the dataset has a different license than this repository (license indicated on the website of the dataset)
 
 The model was modelled off of the shared encoder and LAS decoder from the paper Two-Pass End-to-End Speech Recognition by Sainath et al. [2019].
 
